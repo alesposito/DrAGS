@@ -1,2 +1,1 @@
-# GDCS_miner
-signpost for a GDCS project
+We are working for an early release of a GDSC Matlab miner
